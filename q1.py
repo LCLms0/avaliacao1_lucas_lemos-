@@ -9,7 +9,7 @@ while n > 0 :
     if n % 2 == 0 :
         print(f"{n} é par e é um número positivo")
     else:
-        print(f"{n} é impar e é um número negativo")
+        print(f"{n} é impar e é um número positivo")
     break
 while n == 0:
     if n % 2 == 0  :
